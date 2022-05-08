@@ -79,15 +79,14 @@
 
                 <div class="col-twelve">
 
-                    <h5>Hello, World.</h5>
-                    <h1>I'm Redwan Gharbi.</h1>
+                    <h5>Salut tout le monde</h5>
+                    <h1>Je suis Redwan Gharbi.</h1>
 
                     <p class="intro-position">
-                        <span>Front-end Developer</span>
-                        <span>UI/UX Designer</span>
+                        <span>Web Developer</span>
                     </p>
 
-                    <a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
+                    <a class="button stroke smoothscroll" href="#about" title="">A propos de moi</a>
 
                 </div>
 
@@ -114,14 +113,14 @@
         <div class="row section-intro">
             <div class="col-twelve">
 
-                <h5>About</h5>
-                <h1>Let me introduce myself.</h1>
+                <h5>A propos de moi</h5>
+                <h1>Qui suis-je ?</h1>
 
                 <div class="intro-info">
 
                     <img src="images/profile-pic.jpg" alt="Profile Picture">
 
-                    <p class="lead">Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p>
+                    <p class="lead">Je m’appelle Gharbi Redwan, j’ai 24 ans. J’ai toujours été passionné par l'informatique et sa logique, alors une fois le bac en poche j’ai décidé de m’orienter dans un premier temps dans une facculté de maths & informatique à Valrose que j'ai dut interompre car cela ne me correspondait pas. C'est alors que j'ai débutait mon BTS informatique à l'UFIP Buisness School option SLAM depuis maintenant 2 ans. </p>
                 </div>
 
             </div>
@@ -133,28 +132,24 @@
             <div class="col-six tab-full">
 
                 <h3>Profile</h3>
-                <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+                <p> Motivé, Serieux et Autonome. Mes deux denieres années en alternance m'ont permis d'acquerir en experience et en maturité. De plus j'ai du accroitre mon organisation pour pouvoir m'y accomplir efficacement les differentes taches et projets confiés des deux cotés.</p>
 
                 <ul class="info-list">
                     <li>
-                        <strong>Fullname:</strong>
+                        <strong>Nom complet:</strong>
                         <span>Redwan Gharbi</span>
                     </li>
                     <li>
-                        <strong>Birth Date:</strong>
-                        <span>September 28, 1987</span>
+                        <strong>Date de naissance:</strong>
+                        <span>18 Mars 1998</span>
                     </li>
                     <li>
-                        <strong>Job:</strong>
-                        <span>Freelancer, Frontend Developer</span>
-                    </li>
-                    <li>
-                        <strong>Website:</strong>
-                        <span>www.kardswebsite.com</span>
+                        <strong>Fonction:</strong>
+                        <span>Developper web</span>
                     </li>
                     <li>
                         <strong>Email:</strong>
-                        <span>me@kardswebsite.com</span>
+                        <span>redwan.gharbi@hotmail.com</span>
                     </li>
 
                 </ul>
@@ -165,7 +160,7 @@
             <div class="col-six tab-full">
 
                 <h3>Skills</h3>
-                <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+                <p>De nature curise j'aime en apprendre toujours plus et essayer de m'interesser aux nouvelles technologies et langages tout en restant à jour sur ce que je maitriste déja.</p>
 
                 <ul class="skill-bars">
                     <li>
@@ -199,11 +194,12 @@
 
         <div class="row button-section">
             <div class="col-twelve">
-                <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
-                <div id="cv">
-                    <a href="./projets/cv_prog/cv.html" target="_blank" title="" class="button button-primary">Download CV</a> ou
+                    <a href="./projets/cv_prog/cv.html" target="_blank" title="" class="button button-primary">Download CV</a> 
+                
+                    <p>ou</p>
+                    
                     <a href="./projets/cv_prog.rar" title="Download CV" class="button button-primary">Download CV</a>
-                </div>
+                
 
             </div>
         </div>
@@ -219,10 +215,10 @@
         <div class="row section-intro">
             <div class="col-twelve">
 
-                <h5>Resume</h5>
-                <h1>More of my credentials.</h1>
+                <!-- <h5>Resume</h5> -->
+                <h1>Experiences Professionnels</h1>
 
-                <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+                <p class="lead">Au cours de mes 2 années de BTS j'ai eu la chance de pouvoir travailler pour deux entreprises differentes qui m'ont beaucoup apporté. Mes roles et les attentes de mes differents responsables etaient bien differents. </p>
 
             </div>
         </div>
@@ -232,7 +228,10 @@
 
             <div class="col-twelve resume-header">
 
-                <h2>Work Experience</h2>
+                <h2>MACADEMIA</h2> 
+
+                <p class="lead"> Entreprise où j'ai passé ma première année. Son activité pricipal était de présenté des formations web. Mon role a alors été de maintenir le site de l'entreprise à jour, et de férer du mieux possible le front end tout en profitant de la nature de l'entreprise pour me former du mieux possible et gagner en compétence. </p>
+
 
             </div>
             <!-- /resume-header -->
@@ -314,7 +313,9 @@
 
             <div class="col-twelve resume-header">
 
-                <h2>Education</h2>
+                <h2>INNORED</h2>
+                <p class="lead"> Alors que dans mon entreprise précedente j'avais l'habitude aux petits projets et petite missions, je me retrouve à travailler pour un veritable projet. En effet, l'entreprise a profiter de ma venu pour refaire entierement son site ce qui et j'ai dut apprendre à travailler en équipe pour obtenir des résultats et accroitre mon efficacité.</p>
+
 
             </div>
             <!-- /resume-header -->
@@ -335,9 +336,10 @@
                         </div>
 
                         <div class="timeline-content">
-                            <h4>University of Life</h4>
+                            <h4>Page de Mise à jour</h4>
                             <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
                                 incididunt amet est occaecat nisi.</p>
+                                <a href="#">Plus de détails ici</a>
                         </div>
 
                     </div>
@@ -355,9 +357,11 @@
                         </div>
 
                         <div class="timeline-content">
-                            <h4>State Design University</h4>
+                            <h4>Page de configuration</h4>
                             <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
                                 incididunt amet est occaecat nisi incididunt.</p>
+                                <a href="#">Plus de détails ici</a>
+
                         </div>
 
                     </div>
@@ -375,9 +379,33 @@
                         </div>
 
                         <div class="timeline-content">
-                            <h4>Design College</h4>
+                            <h4>Page ecriture/lecture KNX</h4>
                             <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
                                 incididunt amet est occaecat nisi incididunt.</p>
+                                <a href="#">Plus de détails ici</a>
+
+                        </div>
+
+                    </div>
+                    <!-- /timeline-block -->
+
+                    <div class="timeline-block">
+
+                        <div class="timeline-ico">
+                            <i class="fa fa-briefcase"></i>
+                        </div>
+
+                        <div class="timeline-header">
+                            <h3>Bachelor Degree</h3>
+                            <p>May 2013 - June 2014</p>
+                        </div>
+
+                        <div class="timeline-content">
+                            <h4>Internalisation</h4>
+                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
+                                incididunt amet est occaecat nisi incididunt.</p>
+                                <a href="#">Plus de détails ici</a>
+
                         </div>
 
                     </div>
@@ -427,8 +455,8 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">PPE1</h3>
                                         <span class="folio-types">
-		     					       	  Graphic Design
-		     					       </span>
+                                            Graphic Design
+                                        </span>
                                     </div>
                                 </div>
                             </a>
@@ -444,8 +472,8 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">Pendu</h3>
                                         <span class="folio-types">
-		     					       	  Web Design
-		     					      </span>
+                                            Web Design
+                                        </span>
                                     </div>
                                 </div>
                             </a>
@@ -461,8 +489,8 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">PPE2</h3>
                                         <span class="folio-types">
-		     					       	  Web Design
-		     					      </span>
+                                            Web Design
+                                        </span>
                                     </div>
                                 </div>
                             </a>
@@ -478,8 +506,8 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">JavaScript Projects</h3>
                                         <span class="folio-types">
-		     					       	  Branding
-		     					      </span>
+                                            Branding
+                                        </span>
                                     </div>
                                 </div>
                             </a>
@@ -489,14 +517,14 @@
 
                     <div class="bgrid folio-item">
                         <div class="item-wrap">
-                            <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+                            <img src="images/portfolio/ppe4.PNG" alt="PPE4">
                             <a href="#modal-05" class="overlay">
                                 <div class="folio-item-table">
                                     <div class="folio-item-cell">
-                                        <h3 class="folio-title">Lighthouse</h3>
+                                        <h3 class="folio-title">ppe4</h3>
                                         <span class="folio-types">
-		     					       	  Web Development
-		     					      </span>
+                                            Web Development
+                                        </span>
                                     </div>
                                 </div>
                             </a>
@@ -512,8 +540,8 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">Salad</h3>
                                         <span class="folio-types">
-		     					       	  Branding
-		     					      </span>
+                                            Branding
+                                        </span>
                                     </div>
                                 </div>
                             </a>
@@ -521,7 +549,77 @@
                     </div>
                     <!-- /folio-item -->
 
-                    <!-- modal popups - begin
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <img src="images/portfolio/salad.jpg" alt="Salad">
+                            <a href="#modal-06" class="overlay">
+                                <div class="folio-item-table">
+                                    <div class="folio-item-cell">
+                                        <h3 class="folio-title">Salad</h3>
+                                        <span class="folio-types">
+                                            Branding
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- /folio-item -->
+
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <img src="images/portfolio/salad.jpg" alt="Salad">
+                            <a href="#modal-06" class="overlay">
+                                <div class="folio-item-table">
+                                    <div class="folio-item-cell">
+                                        <h3 class="folio-title">Salad</h3>
+                                        <span class="folio-types">
+                                            Branding
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- /folio-item -->
+
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <img src="images/portfolio/salad.jpg" alt="Salad">
+                            <a href="#modal-06" class="overlay">
+                                <div class="folio-item-table">
+                                    <div class="folio-item-cell">
+                                        <h3 class="folio-title">Salad</h3>
+                                        <span class="folio-types">
+                                            Branding
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- /folio-item -->
+
+                    <div class="bgrid folio-item">
+                        <div class="item-wrap">
+                            <img src="images/portfolio/salad.jpg" alt="Salad">
+                            <a href="#modal-06" class="overlay">
+                                <div class="folio-item-table">
+                                    <div class="folio-item-cell">
+                                        <h3 class="folio-title">Salad</h3>
+                                        <span class="folio-types">
+                                            Branding
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- /folio-item -->
+
+
+
+                    <!-- modal popups - beginS
 	            ============================================================= -->
                     <div id="modal-01" class="popup-modal slider mfp-hide">
 
@@ -537,8 +635,8 @@
                         </div>
 
                         <div class="link-box">
-                            <a href="http://www.behance.net">Details</a>
-                            <a href="#" class="popup-modal-dismiss">Close</a>
+                            <a href="http://51.178.86.117:8082/PPE/ppe1/PPE_frais_deplacement/">Consulter</a>
+                            <a href="./projets/ppe1.rar" download="" class="popup-modal-dismiss">Télécharger</a>
                         </div>
 
                     </div>
@@ -558,7 +656,7 @@
                         </div>
 
                         <div class="link-box">
-                            <a href="http://www.behance.net">Details</a>
+                            <a href="./projets/pendu.rar">Télécharger</a>
                             <a href="#" class="popup-modal-dismiss">Close</a>
                         </div>
 
@@ -590,11 +688,52 @@
                     <div id="modal-04" class="popup-modal slider mfp-hide">
 
                         <div class="media">
-                            <img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+                            <img src="images/portfolio/modals/m-js.PNG" alt="" />
                         </div>
 
                         <div class="description-box">
-                            <h4>Beetle</h4>
+                            <h4>JavaScript projects</h4>
+                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+
+                            <div class="categories">Branding</div>
+                        </div>
+
+                        <div class="link-box">
+                            <a href="./projets/exo_js.rar">Télécharger</a>
+                            <a href="#" class="popup-modal-dismiss">Close</a>
+                        </div>
+
+                    </div>
+                    <!-- /modal-04 -->
+
+                    <div id="modal-05" class="popup-modal slider mfp-hide">
+
+                        <div class="media">
+                            <img src="images/portfolio/modals/m-ppe4.PNG" alt="" />
+                        </div>
+
+                        <div class="description-box">
+                            <h4>PPE4</h4>
+
+                            <div class="categories">Web Development</div>
+                        </div>
+
+                        <div class="link-box">
+                        <a href="./projets/ppe_tasserie/R_Gharbi_GSBA_Source_Code.rar" title="Download CV" class="button button-primary">Download</a>
+                        ,<a href="#" class="popup-modal-dismiss">Close</a>
+                        </div>
+
+                    </div>
+                    <!-- /modal-05 -->
+
+                    <div id="modal-06" class="popup-modal slider mfp-hide">
+
+                        <div class="media">
+                            <img src="images/portfolio/modals/m-salad.jpg" alt="" />
+                        </div>
+
+                        <div class="description-box">
+                            <h4>Salad</h4>  
                             <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
                             <div class="categories">Branding</div>
@@ -606,16 +745,17 @@
                         </div>
 
                     </div>
-                    <!-- /modal-04 -->
 
-                    <div id="modal-05" class="popup-modal slider mfp-hide">
+                    <!-- /modal-06 -->
+
+                    <div id="modal-07" class="popup-modal slider mfp-hide">
 
                         <div class="media">
-                            <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+                            <img src="images/portfolio/modals/m-ppe1.PNG" alt="" />
                         </div>
 
                         <div class="description-box">
-                            <h4>Lighthouse</h4>
+                            <h4>Liberty</h4>
                             <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
                             <div class="categories">Web Development</div>
@@ -627,9 +767,11 @@
                         </div>
 
                     </div>
-                    <!-- /modal-05 -->
 
-                    <div id="modal-06" class="popup-modal slider mfp-hide">
+                    <!-- /modal-07 -->
+
+
+                    <div id="modal-08" class="popup-modal slider mfp-hide">
 
                         <div class="media">
                             <img src="images/portfolio/modals/m-salad.jpg" alt="" />
@@ -648,7 +790,47 @@
                         </div>
 
                     </div>
-                    <!-- /modal-06 -->
+                    <!-- /modal-08 -->
+                    <div id="modal-09" class="popup-modal slider mfp-hide">
+
+                        <div class="media">
+                            <img src="images/portfolio/modals/m-salad.jpg" alt="" />
+                        </div>
+
+                        <div class="description-box">
+                            <h4>Salad</h4>
+                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+
+                            <div class="categories">Branding</div>
+                        </div>
+
+                        <div class="link-box">
+                            <a href="http://www.behance.net">Details</a>
+                            <a href="#" class="popup-modal-dismiss">Close</a>
+                        </div>
+
+                    </div>
+                    <!-- /modal-09 -->
+                    <div id="modal-10" class="popup-modal slider mfp-hide">
+
+                        <div class="media">
+                            <img src="images/portfolio/modals/m-salad.jpg" alt="" />
+                        </div>
+
+                        <div class="description-box">
+                            <h4>Salad</h4>
+                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+
+                            <div class="categories">Branding</div>
+                        </div>
+
+                        <div class="link-box">
+                            <a href="http://www.behance.net">Details</a>
+                            <a href="#" class="popup-modal-dismiss">Close</a>
+                        </div>
+
+                    </div>
+                    <!-- /modal-10 -->
 
 
                     <!-- modal popups - end
