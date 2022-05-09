@@ -120,7 +120,7 @@
 
                     <img src="images/profile-pic.jpg" alt="Profile Picture">
 
-                    <p class="lead">Je m’appelle Gharbi Redwan, j’ai 24 ans. J’ai toujours été passionné par l'informatique et sa logique, alors une fois le bac en poche j’ai décidé de m’orienter dans un premier temps dans une facculté de maths & informatique à Valrose que j'ai dut interompre car cela ne me correspondait pas. C'est alors que j'ai débutait mon BTS informatique à l'UFIP Buisness School option SLAM depuis maintenant 2 ans. </p>
+                    <p class="lead">Je m’appelle Gharbi Redwan, j’ai 24 ans et je suis Etudiant à <a href="https://www.ufip.eu/">l'UFIP Buisness School</a> de Nice.<br/> J’ai toujours été passionné par l'informatique et sa logique, alors une fois le bac en poche j’ai décidé de m’orienter dans un premier temps dans une facculté de maths & informatique à Valrose que j'ai dut interompre car cela ne me correspondait pas. C'est alors que j'ai débutait mon BTS informatique à l'UFIP Buisness School option SLAM depuis maintenant 2 ans. </p>
                 </div>
 
             </div>
@@ -252,9 +252,11 @@
                         </div>
 
                         <div class="timeline-content">
-                            <h4>Awesome Studio</h4>
+                            <h4>Formulaire de satisfaction </h4>
                             <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
                                 incididunt amet est occaecat nisi.</p>
+                                <a href="./images/portfolio/macademia/Formulaire de satisfaction macademia.pdf">Plus de détails ici</a>
+
                         </div>
 
                     </div>
@@ -272,30 +274,12 @@
                         </div>
 
                         <div class="timeline-content">
-                            <h4>Super Cool Agency</h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi incididunt.</p>
+                            <h4>Interface du site</h4>
+                            <p>Pour les besoins de l’entreprise, le site doit être renouvelé et maintenu à jour. Même si je n’ai pas participé à sa mise en place, on m’a chargé de le modifier ...</p>
+                                <a href="./images/portfolio/macademia/site/interface du site Macademia.pdf">Plus de détails ici</a>
+
                         </div>
 
-                    </div>
-                    <!-- /timeline-block -->
-
-                    <div class="timeline-block">
-
-                        <div class="timeline-ico">
-                            <i class="fa fa-graduation-cap"></i>
-                        </div>
-
-                        <div class="timeline-header">
-                            <h3>Web Designer</h3>
-                            <p>May 2013 - June 2014</p>
-                        </div>
-
-                        <div class="timeline-content">
-                            <h4>Great Designs Studio</h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi incididunt.</p>
-                        </div>
 
                     </div>
                     <!-- /timeline-block -->
@@ -337,9 +321,8 @@
 
                         <div class="timeline-content">
                             <h4>Page de Mise à jour</h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi.</p>
-                                <a href="#">Plus de détails ici</a>
+                            <p>Le domaine de la domotique évolue continuellement et très vite. Le site nécessite donc de faire appel à beaucoup d’API et il est important pour la stabilité et la sécurité du client ...</p>
+                                <a href="./images/portfolio/innored/update/Page de mise à jour Innored.pdf">Plus de détails ici</a>
                         </div>
 
                     </div>
@@ -358,9 +341,8 @@
 
                         <div class="timeline-content">
                             <h4>Page de configuration</h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi incididunt.</p>
-                                <a href="#">Plus de détails ici</a>
+                            <p>Pour le bon fonctionnement des produits et services proposés par mon entreprise, il est nécessaire que le client puisse procéder à quelques configurations...</p>
+                                <a href="./images/portfolio/innored/parametre/Page de configuration Innored.pdf">Plus de détails ici</a>
 
                         </div>
 
@@ -380,9 +362,8 @@
 
                         <div class="timeline-content">
                             <h4>Page ecriture/lecture KNX</h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi incididunt.</p>
-                                <a href="#">Plus de détails ici</a>
+                            <p>Après une rapide explication de l’utilité de cette page, ma mission était de créer une page visuellement  correcte tout en la rendant fonctionnelle pour répondre aux besoins du client...</p>
+                                <a href="./images/portfolio/innored/ecriture_lecture_knx/Page d'ecriture_lecture Innored.pdf">Plus de détails ici</a>
 
                         </div>
 
@@ -402,9 +383,8 @@
 
                         <div class="timeline-content">
                             <h4>Internalisation</h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi incididunt.</p>
-                                <a href="#">Plus de détails ici</a>
+                            <p>Pour convenir à une plus large clientèle et surtout car mon entreprise à l’habitude de proposer ses services à une clientèle venant de l’étrangers...</p>
+                                <a href="./images/portfolio/innored/internalisation/Internalisation innored.pdf">Plus de détails ici</a>
 
                         </div>
 
@@ -523,92 +503,7 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">ppe4</h3>
                                         <span class="folio-types">
-                                            Web Development
-                                        </span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                        <div class="item-wrap">
-                            <img src="images/portfolio/salad.jpg" alt="Salad">
-                            <a href="#modal-06" class="overlay">
-                                <div class="folio-item-table">
-                                    <div class="folio-item-cell">
-                                        <h3 class="folio-title">Salad</h3>
-                                        <span class="folio-types">
-                                            Branding
-                                        </span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                        <div class="item-wrap">
-                            <img src="images/portfolio/salad.jpg" alt="Salad">
-                            <a href="#modal-06" class="overlay">
-                                <div class="folio-item-table">
-                                    <div class="folio-item-cell">
-                                        <h3 class="folio-title">Salad</h3>
-                                        <span class="folio-types">
-                                            Branding
-                                        </span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                        <div class="item-wrap">
-                            <img src="images/portfolio/salad.jpg" alt="Salad">
-                            <a href="#modal-06" class="overlay">
-                                <div class="folio-item-table">
-                                    <div class="folio-item-cell">
-                                        <h3 class="folio-title">Salad</h3>
-                                        <span class="folio-types">
-                                            Branding
-                                        </span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                        <div class="item-wrap">
-                            <img src="images/portfolio/salad.jpg" alt="Salad">
-                            <a href="#modal-06" class="overlay">
-                                <div class="folio-item-table">
-                                    <div class="folio-item-cell">
-                                        <h3 class="folio-title">Salad</h3>
-                                        <span class="folio-types">
-                                            Branding
-                                        </span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                        <div class="item-wrap">
-                            <img src="images/portfolio/salad.jpg" alt="Salad">
-                            <a href="#modal-06" class="overlay">
-                                <div class="folio-item-table">
-                                    <div class="folio-item-cell">
-                                        <h3 class="folio-title">Salad</h3>
-                                        <span class="folio-types">
-                                            Branding
+                                        Le projet consiste à définir les caractéristiques de l’équipement type à fournir aux visiteurs, à définir des fiches de procédure et d’intervention pour le suivi du cycle de vie des équipements.
                                         </span>
                                     </div>
                                 </div>
@@ -886,10 +781,10 @@
         <div class="row section-intro">
             <div class="col-twelve">
 
-                <h5>Services</h5>
-                <h1>What Can I Do For You?</h1>
+                <h5>Veilles</h5>
+                <h1>Veille informatique et juridique</h1>
 
-                <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+                <p class="lead">La veille juridique et informatique est une veille spécialisée dans le domaine du droit et de tout ce qui concerne le domaine de informatique, technologique et web.</p>
 
             </div>
         </div>
@@ -933,74 +828,6 @@
                 </div>
                 <!-- /service -->
 
-                <div class="service">
-
-                    <span class="icon"><i class="icon-paint-brush"></i></span>
-
-                    <div class="service-content">
-
-                        <h3>Branding</h3>
-
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
-                <!-- /service -->
-
-                <div class="service">
-
-                    <span class="icon"><i class="icon-toggles"></i></span>
-
-                    <div class="service-content">
-
-                        <h3>UI/UX Design</h3>
-
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
-                <!-- /service -->
-
-                <div class="service">
-
-                    <span class="icon"><i class="icon-image"></i></span>
-
-                    <div class="service-content">
-
-                        <h3>Graphics Design</h3>
-
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
-                <!-- /service -->
-
-                <div class="service">
-
-                    <span class="icon"><i class="icon-chat"></i></span>
-
-                    <div class="service-content">
-
-                        <h3>Consultancy</h3>
-
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
-                <!-- /service -->
-
             </div>
             <!-- /services-list -->
 
@@ -1009,130 +836,6 @@
 
     </section>
     <!-- /services -->
-
-
-    <!-- stats Section
-   ================================================== -->
-    <section id="stats" class="count-up">
-
-        <div class="row">
-            <div class="col-twelve">
-
-                <div class="block-1-6 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
-
-                    <div class="bgrid stat">
-
-                        <div class="icon-part">
-                            <i class="icon-pencil-ruler"></i>
-                        </div>
-
-                        <h3 class="stat-count">
-                            1500
-                        </h3>
-
-                        <h5 class="stat-title">
-                            Projects Completed
-                        </h5>
-
-                    </div>
-                    <!-- /stat -->
-
-                    <div class="bgrid stat">
-
-                        <div class="icon-part">
-                            <i class="icon-users"></i>
-                        </div>
-
-                        <h3 class="stat-count">
-                            900
-                        </h3>
-
-                        <h5 class="stat-title">
-                            Happy Clients
-                        </h5>
-
-                    </div>
-                    <!-- /stat -->
-
-                    <div class="bgrid stat">
-
-                        <div class="icon-part">
-                            <i class="icon-badge"></i>
-                        </div>
-
-                        <h3 class="stat-count">
-                            200
-                        </h3>
-
-                        <h5 class="stat-title">
-                            Awards Received
-                        </h5>
-
-                    </div>
-                    <!-- /stat -->
-
-                    <div class="bgrid stat">
-
-                        <div class="icon-part">
-                            <i class="icon-light-bulb"></i>
-                        </div>
-
-                        <h3 class="stat-count">
-                            120
-                        </h3>
-
-                        <h5 class="stat-title">
-                            Crazy Ideas
-                        </h5>
-
-                    </div>
-                    <!-- /stat -->
-
-                    <div class="bgrid stat">
-
-                        <div class="icon-part">
-                            <i class="icon-cup"></i>
-                        </div>
-
-                        <h3 class="stat-count">
-                            1500
-                        </h3>
-
-                        <h5 class="stat-title">
-                            Coffee Cups
-                        </h5>
-
-                    </div>
-                    <!-- /stat -->
-
-                    <div class="bgrid stat">
-
-                        <div class="icon-part">
-                            <i class="icon-clock"></i>
-                        </div>
-
-                        <h3 class="stat-count">
-                            7200
-                        </h3>
-
-                        <h5 class="stat-title">
-                            Hours
-                        </h5>
-
-                    </div>
-                    <!-- /stat -->
-
-                </div>
-                <!-- /stats-list -->
-
-            </div>
-            <!-- /twelve -->
-        </div>
-        <!-- /row -->
-
-    </section>
-    <!-- /stats -->
-
 
     <!-- contact
    ================================================== -->
