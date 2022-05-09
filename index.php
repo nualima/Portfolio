@@ -52,12 +52,11 @@
                 <nav id="main-nav-wrap">
                     <ul class="main-navigation">
                         <li class="current"><a class="smoothscroll" href="#intro" title="">Home</a></li>
-                        <li><a class="smoothscroll" href="#about" title="">About</a></li>
-                        <li><a class="smoothscroll" href="#resume" title="">Resume</a></li>
-                        <li><a class="smoothscroll" href="#portfolio" title="">Portfolio</a></li>
-                        <li><a class="smoothscroll" href="#services" title="">Services</a></li>
+                        <li><a class="smoothscroll" href="#about" title="">A propos de moi</a></li>
+                        <li><a class="smoothscroll" href="#resume" title="">Experiences Professionnels</a></li>
+                        <li><a class="smoothscroll" href="#portfolio" title="">Mes projets</a></li>
+                        <li><a class="smoothscroll" href="#services" title="">Veilles</a></li>
                         <li><a class="smoothscroll" href="#contact" title="">Contact</a></li>
-                        <li><a href="styles.html" title="">Style Demo</a></li>
                     </ul>
                 </nav>
             </div>
@@ -204,10 +203,18 @@
             </div>
         </div>
 
-    </section>
+    
     <!-- /process-->
+    
+    <!-- Tableau de synthese -->
+<br/>
+<br/>
+<div class="row section-intro">
+    <h2>Tableau de Synthese </h2>
+    <embed src='/Tableau-de-synthese-Epreuve-E4-BTS-SIO-2022 - Tableau de synthèse Épreuve E4 (1).pdf' width=800 height=500 type='application/pdf'/>
 
 
+</div></section>
     <!-- resume Section
    ================================================== -->
     <section id="resume" class="grey-section">
@@ -246,16 +253,13 @@
                             <i class="fa fa-graduation-cap"></i>
                         </div>
 
-                        <div class="timeline-header">
-                            <h3>UI Designer</h3>
-                            <p>July 2015 - Present</p>
-                        </div>
+                     
 
                         <div class="timeline-content">
                             <h4>Formulaire de satisfaction </h4>
                             <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
                                 incididunt amet est occaecat nisi.</p>
-                                <a href="./images/portfolio/macademia/Formulaire de satisfaction macademia.pdf">Plus de détails ici</a>
+                                <a href="./images/portfolio/macademia/Formulaire de satisfaction macademia.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -268,15 +272,29 @@
                             <i class="fa fa-graduation-cap"></i>
                         </div>
 
-                        <div class="timeline-header">
-                            <h3>Front-end Developer</h3>
-                            <p>July 2014 - June 2015</p>
-                        </div>
-
+                        
                         <div class="timeline-content">
                             <h4>Interface du site</h4>
                             <p>Pour les besoins de l’entreprise, le site doit être renouvelé et maintenu à jour. Même si je n’ai pas participé à sa mise en place, on m’a chargé de le modifier ...</p>
-                                <a href="./images/portfolio/macademia/site/interface du site Macademia.pdf">Plus de détails ici</a>
+                                <a href="./images/portfolio/macademia/site/interface du site Macademia.pdf" target="_blank">Plus de détails ici</a>
+
+                        </div>
+
+
+                    </div>
+                    <!-- /timeline-block -->
+
+                    <div class="timeline-block">
+
+                        <div class="timeline-ico">
+                            <i class="fa fa-graduation-cap"></i>
+                        </div>
+
+                        
+                        <div class="timeline-content">
+                            <h4>Referencement</h4>
+                            <p>Macadamia était une entreprise très jeune et avait besoin de se faire une place dans sur internet. Avoir une meilleure visibilité pour rassurer et attirer les clients à la recherche d’une formation ...</p>
+                                <a href="./images/portfolio/macademia/seo/SEO Macademia.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -314,15 +332,11 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                        <div class="timeline-header">
-                            <h3>Master Degree</h3>
-                            <p>July 2015 - Present</p>
-                        </div>
 
                         <div class="timeline-content">
                             <h4>Page de Mise à jour</h4>
                             <p>Le domaine de la domotique évolue continuellement et très vite. Le site nécessite donc de faire appel à beaucoup d’API et il est important pour la stabilité et la sécurité du client ...</p>
-                                <a href="./images/portfolio/innored/update/Page de mise à jour Innored.pdf">Plus de détails ici</a>
+                                <a href="./images/portfolio/innored/update/Page de mise à jour Innored.pdf" target="_blank">Plus de détails ici</a>
                         </div>
 
                     </div>
@@ -334,15 +348,12 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                        <div class="timeline-header">
-                            <h3>Bachelor Degree</h3>
-                            <p>July 2014 - June 2015</p>
-                        </div>
+                        
 
                         <div class="timeline-content">
                             <h4>Page de configuration</h4>
                             <p>Pour le bon fonctionnement des produits et services proposés par mon entreprise, il est nécessaire que le client puisse procéder à quelques configurations...</p>
-                                <a href="./images/portfolio/innored/parametre/Page de configuration Innored.pdf">Plus de détails ici</a>
+                                <a href="./images/portfolio/innored/parametre/Page de configuration Innored.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -355,15 +366,12 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                        <div class="timeline-header">
-                            <h3>Bachelor Degree</h3>
-                            <p>May 2013 - June 2014</p>
-                        </div>
+                       
 
                         <div class="timeline-content">
                             <h4>Page ecriture/lecture KNX</h4>
                             <p>Après une rapide explication de l’utilité de cette page, ma mission était de créer une page visuellement  correcte tout en la rendant fonctionnelle pour répondre aux besoins du client...</p>
-                                <a href="./images/portfolio/innored/ecriture_lecture_knx/Page d'ecriture_lecture Innored.pdf">Plus de détails ici</a>
+                                <a href="./images/portfolio/innored/ecriture_lecture_knx/Page d'ecriture_lecture Innored.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -376,15 +384,12 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                        <div class="timeline-header">
-                            <h3>Bachelor Degree</h3>
-                            <p>May 2013 - June 2014</p>
-                        </div>
+                        
 
                         <div class="timeline-content">
                             <h4>Internalisation</h4>
                             <p>Pour convenir à une plus large clientèle et surtout car mon entreprise à l’habitude de proposer ses services à une clientèle venant de l’étrangers...</p>
-                                <a href="./images/portfolio/innored/internalisation/Internalisation innored.pdf">Plus de détails ici</a>
+                                <a href="./images/portfolio/innored/internalisation/Internalisation innored.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -411,10 +416,7 @@
         <div class="row section-intro">
             <div class="col-twelve">
 
-                <h5>Portfolio</h5>
-                <h1>Check Out Some of My Works.</h1>
-
-                <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+                <h5>PROJETS</h5>
 
             </div>
         </div>
@@ -790,7 +792,7 @@
         </div>
         <!-- /section-intro -->
 
-        <div class="row services-content">
+        <div class="row services-content"> heroku 
 
             <div id="owl-slider" class="owl-carousel services-list">
 
@@ -800,10 +802,9 @@
 
                     <div class="service-content">
 
-                        <h3>Webdesign</h3>
+                        <h3>Veille informatique </h3>
 
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                        <p class="desc">
                         </p>
 
                     </div>
@@ -817,7 +818,7 @@
 
                     <div class="service-content">
 
-                        <h3>Web Development</h3>
+                        <h3>Veille juridique</h3>
 
                         <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
                             voluptatem quia voluptas sit aspernatur aut odit aut fugit.
@@ -845,9 +846,7 @@
             <div class="col-twelve">
 
                 <h5>Contact</h5>
-                <h1>I'd Love To Hear From You.</h1>
 
-                <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
             </div>
         </div>
@@ -862,21 +861,21 @@
                     <fieldset>
 
                         <div class="form-field">
-                            <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
+                            <input name="contactName" type="text" id="contactName" placeholder="nom" value="" minlength="2" required="">
                         </div>
                         <div class="form-field">
-                            <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
+                            <input name="contactEmail" type="email" id="contactEmail" placeholder="mail" value="" required="">
                         </div>
                         <div class="form-field">
-                            <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
+                            <input name="contactSubject" type="text" id="contactSubject" placeholder="Sujet" value="">
                         </div>
                         <div class="form-field">
                             <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
                         </div>
                         <div class="form-field">
-                            <button class="submitform">Submit</button>
+                            <button class="submitform">Envoyer</button>
                             <div id="submit-loader">
-                                <div class="text-loader">Sending...</div>
+                                <div class="text-loader">envoie...</div>
                                 <div class="s-loader">
                                     <div class="bounce1"></div>
                                     <div class="bounce2"></div>
@@ -894,7 +893,7 @@
                 </div>
                 <!-- contact-success -->
                 <div id="message-success">
-                    <i class="fa fa-check"></i>Your message was sent, thank you!<br>
+                    <i class="fa fa-check"></i>Votre message à été envoyé, Merci !<br>
                 </div>
 
             </div>
@@ -905,19 +904,6 @@
 
         <div class="row contact-info">
 
-            <div class="col-four tab-full">
-
-                <div class="icon">
-                    <i class="icon-pin"></i>
-                </div>
-
-                <h5>Where to find me</h5>
-
-                <p>
-                    1600 Amphitheatre Parkway<br> Mountain View, CA<br> 94043 US
-                </p>
-
-            </div>
 
             <div class="col-four tab-full collapse">
 
@@ -925,9 +911,9 @@
                     <i class="icon-mail"></i>
                 </div>
 
-                <h5>Email Me At</h5>
+                <h5>Ecrivez moi</h5>
 
-                <p>someone@kardswebsite.com<br> info@kardswebsite.com
+                <p>sRedwan.gharbi@hotmail.com<br> info@kardswebsite.com
                 </p>
 
             </div>
@@ -938,9 +924,9 @@
                     <i class="icon-phone"></i>
                 </div>
 
-                <h5>Call Me At</h5>
+                <h5>Par téléphone</h5>
 
-                <p>Phone: (+63) 555 1212<br> Mobile: (+63) 555 0100<br> Fax: (+63) 555 0101
+                <p>tel: (+33) 7 68 71 67 84<br> 
                 </p>
 
             </div>
@@ -961,11 +947,10 @@
             <div class="col-six tab-full pull-right social">
 
                 <ul class="footer-social">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://www.facebook.com/van.gharbi" target='_blank'><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/Nualima0" target='_blank'><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://github.com/nualima " target='_blank'><i class="fa fa-github"></i></a></li>
+                    <li><a href="https://twitter.com/Nualima0" target='_blank'><i class="fa fa-instagram"></i></a></li>
                 </ul>
 
             </div>
