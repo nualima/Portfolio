@@ -78,7 +78,7 @@
 
                 <div class="col-twelve">
 
-                    <h5>Salut tout le monde</h5>
+                    <h5>Bonjour à tous,</h5>
                     <h1>Je suis Redwan Gharbi.</h1>
 
                     <p class="intro-position">
@@ -163,25 +163,34 @@
 
                 <ul class="skill-bars">
                     <li>
-                        <div class="progress percent90"><span>90%</span></div>
+                        
+                        <div class="progress percent70"><span>70%</span></div>
                         <strong>HTML5</strong>
                     </li>
                     <li>
-                        <div class="progress percent85"><span>85%</span></div>
+                        <div class="progress percent75"><span>75%</span></div>
                         <strong>CSS3</strong>
                     </li>
                     <li>
-                        <div class="progress percent70"><span>70%</span></div>
-                        <strong>JQuery</strong>
+                        <div class="progress percent40"><span>40%</span></div>
+                        <strong>JavaScript</strong>
                     </li>
                     <li>
-                        <div class="progress percent95"><span>95%</span></div>
+                        <div class="progress percent50"><span>50%</span></div>
                         <strong>PHP</strong>
                     </li>
                     <li>
 
-                        <div class="progress percent75"><span>75%</span></div>
-                        <strong>Wordpress</strong>
+                        <div class="progress percent50"><span>50%</span></div>
+                        <strong>Base de données</strong>
+                    </li>
+                    <li>
+                    <div class="progress percent75"><span>75%</span></div>
+                        <strong>Tailwind</strong>
+                    </li>
+                    <li>
+                    <div class="progress percent30"><span>30%</span></div>
+                        <strong>React</strong>
                     </li>
 
                 </ul>
@@ -292,7 +301,7 @@
 
                         
                         <div class="timeline-content">
-                            <h4>Referencement</h4>
+                            <h4>Référencement</h4>
                             <p>Macadamia était une entreprise très jeune et avait besoin de se faire une place dans sur internet. Avoir une meilleure visibilité pour rassurer et attirer les clients à la recherche d’une formation ...</p>
                                 <a href="./images/portfolio/macademia/seo/SEO Macademia.pdf" target="_blank">Plus de détails ici</a>
 
@@ -315,7 +324,7 @@
 
             <div class="col-twelve resume-header">
 
-                <h2>INNORED</h2>
+                <a href="https://www.innored.fr/" targer="_blank"><h2>INNORED</h2></a>
                 <p class="lead"> Alors que dans mon entreprise précedente j'avais l'habitude aux petits projets et petite missions, je me retrouve à travailler pour un veritable projet. En effet, l'entreprise a profiter de ma venu pour refaire entierement son site ce qui et j'ai dut apprendre à travailler en équipe pour obtenir des résultats et accroitre mon efficacité.</p>
 
 
@@ -792,7 +801,7 @@
         </div>
         <!-- /section-intro -->
 
-        <div class="row services-content"> heroku 
+        <div class="row services-content"> 
 
             <div id="owl-slider" class="owl-carousel services-list">
 
@@ -819,10 +828,9 @@
                     <div class="service-content">
 
                         <h3>Veille juridique</h3>
-
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
+                        
+                        <a href="./Veille_Juridique-IdentiteNumeriqueEtProtDonnesPerso.pdf" style="color:pink;"> En savoir plus sur la veille juridique ..</a>
+                        
 
                     </div>
 
@@ -913,7 +921,7 @@
 
                 <h5>Ecrivez moi</h5>
 
-                <p>sRedwan.gharbi@hotmail.com<br> info@kardswebsite.com
+                <p>Redwan.gharbi@hotmail.com<br>
                 </p>
 
             </div>
