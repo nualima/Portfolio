@@ -119,7 +119,7 @@
 
                     <img src="images/profile-pic.jpg" alt="Profile Picture">
 
-                    <p class="lead">Je m’appelle Gharbi Redwan, j’ai 24 ans et je suis Etudiant à <a href="https://www.ufip.eu/">l'UFIP Buisness School</a> de Nice.<br/> J’ai toujours été passionné par l'informatique et sa logique, alors une fois le bac en poche j’ai décidé de m’orienter dans un premier temps dans une facculté de maths & informatique à Valrose que j'ai dut interompre car cela ne me correspondait pas. C'est alors que j'ai débutait mon BTS informatique à l'UFIP Buisness School option SLAM depuis maintenant 2 ans. </p>
+                    <p class="lead">Je m’appelle Gharbi Redwan, j’ai 24 ans et je suis Etudiant à <a href="https://www.ufip.eu/">l'UFIP Buisness School</a> de Nice.<br /> J’ai toujours été passionné par l'informatique et sa logique, alors une fois le bac en poche j’ai décidé de m’orienter dans un premier temps dans une facculté de maths & informatique à Valrose que j'ai dut interompre car cela ne me correspondait pas. C'est alors que j'ai débutait mon BTS informatique à l'UFIP Buisness School option SLAM depuis maintenant 2 ans. </p>
                 </div>
 
             </div>
@@ -163,7 +163,7 @@
 
                 <ul class="skill-bars">
                     <li>
-                        
+
                         <div class="progress percent70"><span>70%</span></div>
                         <strong>HTML5</strong>
                     </li>
@@ -185,11 +185,11 @@
                         <strong>Base de données</strong>
                     </li>
                     <li>
-                    <div class="progress percent75"><span>75%</span></div>
+                        <div class="progress percent75"><span>75%</span></div>
                         <strong>Tailwind</strong>
                     </li>
                     <li>
-                    <div class="progress percent30"><span>30%</span></div>
+                        <div class="progress percent30"><span>30%</span></div>
                         <strong>React</strong>
                     </li>
 
@@ -202,28 +202,29 @@
 
         <div class="row button-section">
             <div class="col-twelve">
-                    <a href="./projets/cv_prog/cv.html" target="_blank" title="" class="button button-primary">Download CV</a> 
-                
-                    <p>ou</p>
-                    
-                    <a href="./projets/cv_prog.rar" title="Download CV" class="button button-primary">Download CV</a>
-                
+                <a href="./projets/cv_prog/cv.html" target="_blank" title="" class="button button-primary">Download CV</a>
+
+                <p>ou</p>
+
+                <a href="./projets/cv_prog.rar" title="Download CV" class="button button-primary">Download CV</a>
+
 
             </div>
         </div>
 
-    
-    <!-- /process-->
-    
-    <!-- Tableau de synthese -->
-<br/>
-<br/>
-<div class="row section-intro">
-    <h2>Tableau de Synthese </h2>
-    <embed src='/Tableau-de-synthese-Epreuve-E4-BTS-SIO-2022 - Tableau de synthèse Épreuve E4 (1).pdf' width=800 height=500 type='application/pdf'/>
+
+        <!-- /process-->
+
+        <!-- Tableau de synthese -->
+        <br />
+        <br />
+        <div class="row section-intro">
+            <h2>Tableau de Synthese </h2>
+            <embed src='/Tableau-de-synthese-Epreuve-E4-BTS-SIO-2022 - Tableau de synthèse Épreuve E4 (1).pdf' width=800 height=500 type='application/pdf' />
 
 
-</div></section>
+        </div>
+    </section>
     <!-- resume Section
    ================================================== -->
     <section id="resume" class="grey-section">
@@ -244,7 +245,7 @@
 
             <div class="col-twelve resume-header">
 
-                <h2>MACADEMIA</h2> 
+                <h2>MACADEMIA</h2>
 
                 <p class="lead"> Entreprise où j'ai passé ma première année. Son activité pricipal était de présenté des formations web. Mon role a alors été de maintenir le site de l'entreprise à jour, et de férer du mieux possible le front end tout en profitant de la nature de l'entreprise pour me former du mieux possible et gagner en compétence. </p>
 
@@ -262,13 +263,13 @@
                             <i class="fa fa-graduation-cap"></i>
                         </div>
 
-                     
+
 
                         <div class="timeline-content">
                             <h4>Formulaire de satisfaction </h4>
                             <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
                                 incididunt amet est occaecat nisi.</p>
-                                <a href="./images/portfolio/macademia/Formulaire de satisfaction macademia.pdf" target="_blank">Plus de détails ici</a>
+                            <a href="./images/portfolio/macademia/Formulaire de satisfaction macademia.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -281,11 +282,11 @@
                             <i class="fa fa-graduation-cap"></i>
                         </div>
 
-                        
+
                         <div class="timeline-content">
                             <h4>Interface du site</h4>
                             <p>Pour les besoins de l’entreprise, le site doit être renouvelé et maintenu à jour. Même si je n’ai pas participé à sa mise en place, on m’a chargé de le modifier ...</p>
-                                <a href="./images/portfolio/macademia/site/interface du site Macademia.pdf" target="_blank">Plus de détails ici</a>
+                            <a href="./images/portfolio/macademia/site/interface du site Macademia.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -299,11 +300,11 @@
                             <i class="fa fa-graduation-cap"></i>
                         </div>
 
-                        
+
                         <div class="timeline-content">
                             <h4>Référencement</h4>
                             <p>Macadamia était une entreprise très jeune et avait besoin de se faire une place dans sur internet. Avoir une meilleure visibilité pour rassurer et attirer les clients à la recherche d’une formation ...</p>
-                                <a href="./images/portfolio/macademia/seo/SEO Macademia.pdf" target="_blank">Plus de détails ici</a>
+                            <a href="./images/portfolio/macademia/seo/SEO Macademia.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -324,7 +325,9 @@
 
             <div class="col-twelve resume-header">
 
-                <a href="https://www.innored.fr/" targer="_blank"><h2>INNORED</h2></a>
+                <a href="https://www.innored.fr/" targer="_blank">
+                    <h2>INNORED</h2>
+                </a>
                 <p class="lead"> Alors que dans mon entreprise précedente j'avais l'habitude aux petits projets et petite missions, je me retrouve à travailler pour un veritable projet. En effet, l'entreprise a profiter de ma venu pour refaire entierement son site ce qui et j'ai dut apprendre à travailler en équipe pour obtenir des résultats et accroitre mon efficacité.</p>
 
 
@@ -345,7 +348,7 @@
                         <div class="timeline-content">
                             <h4>Page de Mise à jour</h4>
                             <p>Le domaine de la domotique évolue continuellement et très vite. Le site nécessite donc de faire appel à beaucoup d’API et il est important pour la stabilité et la sécurité du client ...</p>
-                                <a href="./images/portfolio/innored/update/Page de mise à jour Innored.pdf" target="_blank">Plus de détails ici</a>
+                            <a href="./images/portfolio/innored/update/Page de mise à jour Innored.pdf" target="_blank">Plus de détails ici</a>
                         </div>
 
                     </div>
@@ -357,12 +360,12 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                        
+
 
                         <div class="timeline-content">
                             <h4>Page de configuration</h4>
                             <p>Pour le bon fonctionnement des produits et services proposés par mon entreprise, il est nécessaire que le client puisse procéder à quelques configurations...</p>
-                                <a href="./images/portfolio/innored/parametre/Page de configuration Innored.pdf" target="_blank">Plus de détails ici</a>
+                            <a href="./images/portfolio/innored/parametre/Page de configuration Innored.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -375,12 +378,12 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                       
+
 
                         <div class="timeline-content">
                             <h4>Page ecriture/lecture KNX</h4>
-                            <p>Après une rapide explication de l’utilité de cette page, ma mission était de créer une page visuellement  correcte tout en la rendant fonctionnelle pour répondre aux besoins du client...</p>
-                                <a href="./images/portfolio/innored/ecriture_lecture_knx/Page d'ecriture_lecture Innored.pdf" target="_blank">Plus de détails ici</a>
+                            <p>Après une rapide explication de l’utilité de cette page, ma mission était de créer une page visuellement correcte tout en la rendant fonctionnelle pour répondre aux besoins du client...</p>
+                            <a href="./images/portfolio/innored/ecriture_lecture_knx/Page d'ecriture_lecture Innored.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -393,12 +396,12 @@
                             <i class="fa fa-briefcase"></i>
                         </div>
 
-                        
+
 
                         <div class="timeline-content">
                             <h4>Internalisation</h4>
                             <p>Pour convenir à une plus large clientèle et surtout car mon entreprise à l’habitude de proposer ses services à une clientèle venant de l’étrangers...</p>
-                                <a href="./images/portfolio/innored/internalisation/Internalisation innored.pdf" target="_blank">Plus de détails ici</a>
+                            <a href="./images/portfolio/innored/internalisation/Internalisation innored.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
 
@@ -514,7 +517,7 @@
                                     <div class="folio-item-cell">
                                         <h3 class="folio-title">ppe4</h3>
                                         <span class="folio-types">
-                                        Le projet consiste à définir les caractéristiques de l’équipement type à fournir aux visiteurs, à définir des fiches de procédure et d’intervention pour le suivi du cycle de vie des équipements.
+                                            Le projet consiste à définir les caractéristiques de l’équipement type à fournir aux visiteurs, à définir des fiches de procédure et d’intervention pour le suivi du cycle de vie des équipements.
                                         </span>
                                     </div>
                                 </div>
@@ -625,8 +628,8 @@
                         </div>
 
                         <div class="link-box">
-                        <a href="./projets/ppe_tasserie/R_Gharbi_GSBA_Source_Code.rar" title="Download CV" class="button button-primary">Download</a>
-                        ,<a href="#" class="popup-modal-dismiss">Close</a>
+                            <a href="./projets/ppe_tasserie/R_Gharbi_GSBA_Source_Code.rar" title="Download CV" class="button button-primary">Download</a>
+                            ,<a href="#" class="popup-modal-dismiss">Close</a>
                         </div>
 
                     </div>
@@ -639,7 +642,7 @@
                         </div>
 
                         <div class="description-box">
-                            <h4>Salad</h4>  
+                            <h4>Salad</h4>
                             <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
                             <div class="categories">Branding</div>
@@ -795,13 +798,20 @@
                 <h5>Veilles</h5>
                 <h1>Veille informatique et juridique</h1>
 
+
+                <!-- flux rss -->
+
+                
+
+                <!-- fin flux rss -->
+
                 <p class="lead">La veille juridique et informatique est une veille spécialisée dans le domaine du droit et de tout ce qui concerne le domaine de informatique, technologique et web.</p>
 
             </div>
         </div>
         <!-- /section-intro -->
 
-        <div class="row services-content"> 
+        <div class="row services-content">
 
             <div id="owl-slider" class="owl-carousel services-list">
 
@@ -812,9 +822,13 @@
                     <div class="service-content">
 
                         <h3>Veille informatique </h3>
-
-                        <p class="desc">
+                        <p>Ayant eu l'occasion de travailler dans le cadre d'une mission pour mon entreprise, j'ai fais beaucoup de recherches sur le sujet du referencement. 
+                            C'es un domaine très vaste et qui evolue continuellement donc j'ai trouvé très interessant de faire ma veille dessus. Quelqu'un travaillant dans le web,
+                            peu importe le niveau se doit de connaitre les notions de base du referencement quand on sait que c'est un critère clef pour les clients aujourd'hui. 
                         </p>
+                        <a href="https://www.netvibes.com/subscribe.php?preconfig=98260b80-d047-11ec-b455-a0369fec958c&preconfigtype=tab">
+<img src="data:image/png;base64,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"/>                        </a>
+
 
                     </div>
 
@@ -828,9 +842,11 @@
                     <div class="service-content">
 
                         <h3>Veille juridique</h3>
-                        
+
+                        <iframe src="https://www.pearltrees.com/nualima?embed=2&d=202205101234" width="853" height="604" style="border:0px;" allowtransparency="true"></iframe><span style="display:block; padding-top:2px; color:#818181; font-size:13px;"><a href="https://www.pearltrees.com/nualima" style=" color:#818181; font-size:13px;" target="_blank">Nualima</a></span>
+
                         <a href="./Veille_Juridique-IdentiteNumeriqueEtProtDonnesPerso.pdf" style="color:pink;"> En savoir plus sur la veille juridique ..</a>
-                        
+
 
                     </div>
 
@@ -934,7 +950,7 @@
 
                 <h5>Par téléphone</h5>
 
-                <p>tel: (+33) 7 68 71 67 84<br> 
+                <p>tel: (+33) 7 68 71 67 84<br>
                 </p>
 
             </div>
