@@ -158,7 +158,7 @@
 
             <div class="col-six tab-full">
 
-                <h3>Skills</h3>
+                <h3>Compétences</h3>
                 <p>De nature curise j'aime en apprendre toujours plus et essayer de m'interesser aux nouvelles technologies et langages tout en restant à jour sur ce que je maitriste déja.</p>
 
                 <ul class="skill-bars">
@@ -202,11 +202,11 @@
 
         <div class="row button-section">
             <div class="col-twelve">
-                <a href="./projets/cv_prog/cv.html" target="_blank" title="" class="button button-primary">Download CV</a>
+                <a href="./projets/cv_prog/cv.html" target="_blank" title="" class="button button-primary">Lire le CV</a>
 
                 <p>ou</p>
 
-                <a href="./projets/cv_prog.rar" title="Download CV" class="button button-primary">Download CV</a>
+                <a href="./projets/cv_prog.rar" title="Download CV" class="button button-primary">Télécharger le cv</a>
 
 
             </div>
@@ -267,8 +267,7 @@
 
                         <div class="timeline-content">
                             <h4>Formulaire de satisfaction </h4>
-                            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor
-                                incididunt amet est occaecat nisi.</p>
+                            <p>Une entreprise de formation pour pouvoir s’améliorer et pouvoir proposer les prestations les plus qualitatives possibles, il est nécessaire pour les responsable d’avoir un retour sur le ressenti du clients sur à sa formation...</p>
                             <a href="./images/portfolio/macademia/Formulaire de satisfaction macademia.pdf" target="_blank">Plus de détails ici</a>
 
                         </div>
@@ -537,8 +536,7 @@
                         </div>
 
                         <div class="description-box">
-                            <h4>Liberty</h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                            <h4>Note de frais</h4>
 
                             <div class="categories">Web Development</div>
                         </div>
@@ -559,14 +557,13 @@
 
                         <div class="description-box">
                             <h4>pendu</h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
+                            <p>Projet personnels pour perfectionner mes compétences en javascript</p>
                             <div class="categories">Web Design</div>
                         </div>
 
                         <div class="link-box">
                             <a href="./projets/pendu.rar">Télécharger</a>
-                            <a href="#" class="popup-modal-dismiss">Close</a>
+                            <a href="#" class="popup-modal-dismiss">Fermer</a>
                         </div>
 
                     </div>
@@ -579,16 +576,16 @@
                         </div>
 
                         <div class="description-box">
-                            <h4>contexte</h4>
-                            <h4>description</h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                            
+                            <h4>Maison des leagues </h4>
+                            <p>M2L est une application web pour la maison des ligues, utilisée par des visiteurs non connectés et des utilisateurs et par un administrateur..</p>
 
                             <div class="categories">Web Design</div>
                         </div>
 
                         <div class="link-box">
-                            <a href="http://www.behance.net">Details</a>
-                            <a href="#" class="popup-modal-dismiss">Close</a>
+                            <a href="http://www.behance.net">Télécharger </a>
+                            <a href="#" class="popup-modal-dismiss">Fermer</a>
                         </div>
 
                     </div>
@@ -602,14 +599,14 @@
 
                         <div class="description-box">
                             <h4>JavaScript projects</h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                            <p>Plusieurs petits projets simple pour m'initier à javascript. </p>
 
                             <div class="categories">Branding</div>
                         </div>
 
                         <div class="link-box">
                             <a href="./projets/exo_js.rar">Télécharger</a>
-                            <a href="#" class="popup-modal-dismiss">Close</a>
+                            <a href="#" class="popup-modal-dismiss">Fermer</a>
                         </div>
 
                     </div>
@@ -628,8 +625,8 @@
                         </div>
 
                         <div class="link-box">
-                            <a href="./projets/ppe_tasserie/R_Gharbi_GSBA_Source_Code.rar" title="Download CV" class="button button-primary">Download</a>
-                            ,<a href="#" class="popup-modal-dismiss">Close</a>
+                            <a href="./projets/ppe_tasserie/R_Gharbi_GSBA_Source_Code.rar" title="Download " class="button button-primary">télécharger</a>
+                            ,<a href="#" class="popup-modal-dismiss">Fermer</a>
                         </div>
 
                     </div>
@@ -843,7 +840,7 @@
 
                         <h3>Veille juridique</h3>
 
-                        <iframe src="https://www.pearltrees.com/nualima?embed=2&d=202205101234" width="853" height="604" style="border:0px;" allowtransparency="true"></iframe><span style="display:block; padding-top:2px; color:#818181; font-size:13px;"><a href="https://www.pearltrees.com/nualima" style=" color:#818181; font-size:13px;" target="_blank">Nualima</a></span>
+                        <iframe src="https://www.pearltrees.com/nualima?embed=2&d=202205101234" width="453" height="400" style="border:0px;" allowtransparency="true"></iframe><span style="display:block; padding-top:2px; color:#818181; font-size:13px;"><a href="https://www.pearltrees.com/nualima" style=" color:#818181; font-size:13px;" target="_blank">Nualima</a></span>
 
                         <a href="./Veille_Juridique-IdentiteNumeriqueEtProtDonnesPerso.pdf" style="color:pink;"> En savoir plus sur la veille juridique ..</a>
 
